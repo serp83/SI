@@ -13,7 +13,6 @@ AbstractStompSessionManager
 
 MessageConverter
 
-
 **SI**
 org.springframework.integration.Message
 
